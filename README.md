@@ -1,4 +1,4 @@
-# LifeJourney AI - Interactive Professional Portfolio
+# LifeJourney - Interactive Professional Portfolio
 
 **Created by Gagandeep Dhaliwal**
 
